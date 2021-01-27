@@ -7,6 +7,7 @@
     - Notepad++
     - VSCode
     - Atom
+
 ## Launcher to play packs
 MultiMC
 MultiMC is a launcher that will easily allow settings per instance
@@ -14,6 +15,7 @@ MultiMC is a launcher that will easily allow settings per instance
 - GDLauncher
 - Curseforge
 - NBT Explorer (sometimes you’ll need to edit files like level.dat and NBT Explorer will open and allow editing)
+
 https://github.com/jaquadro/NBTExplorer/releases
 ## Sites to use for mods
 - Curseforge
