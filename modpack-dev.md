@@ -50,6 +50,7 @@ Hosting an issue tracker and being able to easily reference while making commits
 - Most often, when the game crashes it will generate a crash log. Crash logs will be in the “crash-reports” folder located in the Root folder of your instance
 Crash logs can seem pretty daunting at first, but once you get the hang of reading them you can solve your issues much more effectively
 - TODO - dive further into crashlog sections to point out useful information
+- [Breakdown of a Crash Log - thanks to 04Slash for the resource!](https://github.com/04Slash/Breaking-Down-Minecraft-Forge-Crash-Reports/wiki/Reading-Crash-Reports)
 
 ## [**Useful Commands**](/commands)
 ## [**Glossary**](/glossary)
