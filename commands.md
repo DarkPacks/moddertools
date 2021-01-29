@@ -24,10 +24,8 @@
 - `/gamerule` [Minecraft Wiki Gamerule List](https://minecraft.gamepedia.com/Game_rule){:target="_blank"}
     - doDaylightCycle (true/false) - leave out true or false to see the current setting
     - doWeatherCycle (true/false)
-    - randomTickSpeed (default: 3) - How often a random block [tick](/glossary) occurs (such as plant growth, leaf decay, etc.) per chunk section per game tick. 0 disables random ticks [needs testing], higher numbers increase random ticks. Setting to a high integer results in high speeds of decay and growth
+    - randomTickSpeed (default: 3) - How often a random block [tick](/glossary "Measure of time in minecraft. 1 second = 20 ticks") occurs (such as plant growth, leaf decay, etc.) per chunk section per game tick. 0 disables random ticks [needs testing], higher numbers increase random ticks. Setting to a high integer results in high speeds of decay and growth
 
 
-
-    [Test](/glossary){:title="some string"}
 
 ## [**Main Page**](/modpack-dev)
