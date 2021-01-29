@@ -15,7 +15,6 @@
 - Spawn loot chests
 - `/forge entity list`
 - `/effect give @p minecraft:night_vision 999` 
-- F3+F4 to change game modes 
 - `/time set <day / night>`
 - `/time set <amount: int>`
     - Used to set the time in-game (TODO list out other options within command)
@@ -25,7 +24,7 @@
     - doDaylightCycle (true/false) - leave out true or false to see the current setting
     - doWeatherCycle (true/false)
     - randomTickSpeed (default: 3) - How often a random block [tick](/glossary "Measure of time in minecraft. 1 second = 20 ticks") occurs (such as plant growth, leaf decay, etc.) per chunk section per game tick. 0 disables random ticks [needs testing], higher numbers increase random ticks. Setting to a high integer results in high speeds of decay and growth
-
-
+- F3+F4 - Change game modes 
+- F3+G - View [chunk](/glossary "A chunk is a 256-block tall 16×16 segment of a Minecraft world") borders
 
 ## [**Main Page**](/modpack-dev)
