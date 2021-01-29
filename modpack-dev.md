@@ -14,6 +14,8 @@
 - [GDLauncher](https://gdevs.io/){:target="_blank"}
 - [Curseforge](https://curseforge.overwolf.com/){:target="_blank"}
 - [NBT Explorer](https://github.com/jaquadro/NBTExplorer/releases){:target="_blank"} (sometimes you’ll need to edit files like level.dat and NBT Explorer will open and allow editing)
+- [Region Locator Coordinate Tool](https://dinnerbone.com/minecraft/tools/coordinates/){:target="_blank"}
+    - You will often need to locate a region file
 
 ## Sites to use for mods
 - [Curseforge](https://www.curseforge.com/minecraft/mc-mods){:target="_blank"}
@@ -45,6 +47,9 @@ Hosting an issue tracker and being able to easily reference while making commits
 - TODO - Elaborate further on where to post changelogs
 
 ## Crash Logs
-- - Most often, when the game crashes it will generate a crash log. Crash logs will be in the “crash-reports” folder located in the Root folder of your instance
+- Most often, when the game crashes it will generate a crash log. Crash logs will be in the “crash-reports” folder located in the Root folder of your instance
 Crash logs can seem pretty daunting at first, but once you get the hang of reading them you can solve your issues much more effectively
 - TODO - dive further into crashlog sections to point out useful information
+
+## [**Useful Commands**](/commands)
+## [**Glossary**](/glossary)
