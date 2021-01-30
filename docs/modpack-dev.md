@@ -53,8 +53,8 @@ Crash logs can seem pretty daunting at first, but once you get the hang of readi
 - [Breakdown of a Crash Log - thanks to 04Slash for the resource!](https://github.com/04Slash/Breaking-Down-Minecraft-Forge-Crash-Reports/wiki/Reading-Crash-Reports){:target="_blank"}
 
 ## Playtesting
-- Do it.
-- Seriously.
+- Most bad modpacks out there have never been played by the developer or testers. It's impossible to know how a feature or setting will work if you have never experienced it before
+- If you don't have people to play the pack for you, that's fine. Playtest it yourself. You'll be much better off having played it yourself than just posting it and hoping it works or that someone finds bugs. All it takes is one really bad bug and that person will be turned off from the pack and possible any future projects you work on
 
 ## [**Useful Commands**](/commands)
 ## [**Glossary**](/glossary)
