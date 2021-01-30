@@ -70,7 +70,7 @@
 	#Leave empty to apply them all and REVERSE to reverse all flags. Some flags do nothing for certain mobs!
 	#example: minecraft:sheep|REVERSE|ATTRIBUTES will add sheep to attributes modification (since default is a blacklist)
 	#or minecraft:sheep|ATTRIBUTES will add sheep to everything except attributes
-	"More Entities" = ["diregoo:goospreadentity|ALL", "eyesinthedarkness:eyes|ALL", "goopers:gooper|REVERSE|SWIMMRIDE", "hornets:hornet|REVERSE|BLOCKBREAK", "minecraft:bat|ALL", "minecraft:bee|ALL", "minecraft:blaze|ALL", "minecraft:cat|ALL"]
+	"More Entities" = ["diregoo:goospreadentity|ALL", "eyesinthedarkness:eyes|ALL", "goopers:gooper|REVERSE|SWIMMRIDE"]
 	#Treat ATTRIBUTES flags as whitelist
 	"Attribute Whitelist" = false
 	#Treat ARMOR flags as whitelist
@@ -91,15 +91,18 @@
 	"Villager Whitelist" = false
 ```
 
+- Mods that have debug options are a great resource to help locate any issues or bugs you encounter. This one will visualize where mobs are walking (pathing) to
+
 ```toml
 #Debugging
 [debug]
 	#Enable showing of entity paths
 	"Path Debugging" = false
 ```
-- Mods that have debug options are a great resource to help locate any issues or bugs you encounter. This one will visualize where mobs are walking (pathing) to
 
-```yaml
+- In most cases, if a mod config file included an integration to a mod I do not use in the pack I will disable the integration. This does not always have an effect but is worth it for stability and bug-finding
+
+```toml
 #Settings for mod integration
 [integration]
 	#Should the scaling health mods difficulty system be used instead of this ones. (Requires scaling health mod)
@@ -111,6 +114,7 @@
 	#Should the coroutils repair block be used. (Requires coroutils mod)
 	"Use CoroUtils Mod" = false
 ```
+
 
 ```toml
 #Settings regarding custom ai for mobs
@@ -210,7 +214,31 @@
 	"Max Projectile Damage" = 0.0
 ```
 
-- and then there are really complex files. Like this one
+- The following `.json` entry is from the [inControl mod](https://www.curseforge.com/minecraft/mc-mods/in-control){:target="_blank"} inControl is a extremely powerful mod that allows a ton of customization 
+- I strongly recommend using a syntax checker and a formatter while you work with `.json` files to make things much easier
+    - Depending on your dev environment you can get a plugin
+
+- The following entry has multiple functions:
+    - The first entry stops `hornets:hornet` from spawning once there are 15 loaded in the world
+    - The second entry completely blocks `minecraft:creeper` from spawning in the world
+    
+```json
+[
+  {
+    "mob": "hornets:hornet",
+    "mincount": {
+      "amount": 15
+    },
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:creeper",
+    "result": "deny"
+  }
+]
+```
+
+
 
 
 # [**Modpack Developer Tools**](/modpack-dev)
