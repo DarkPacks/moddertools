@@ -24,7 +24,8 @@
     - doDaylightCycle (true/false) - leave out true or false to see the current setting
     - doWeatherCycle (true/false)
     - randomTickSpeed (default: 3) - How often a random block [tick](/glossary "Measure of time in minecraft. 1 second = 20 ticks") occurs (such as plant growth, leaf decay, etc.) per chunk section per game tick. 0 disables random ticks [needs testing], higher numbers increase random ticks. Setting to a high integer results in high speeds of decay and growth
-- F3+F4 - Change game modes 
-- F3+G - View [chunk](/glossary "A chunk is a 256-block tall 16×16 segment of a Minecraft world") borders
+- `F3+F4` - Change game modes 
+- `F3+G` - View [chunk](/glossary "A chunk is a 256-block tall 16×16 segment of a Minecraft world") borders
+- `F3+H` - Enable advanced tooltips. Will allow to see Item ID's and other useful information
 
 ## [**Main Page**](/modpack-dev)
