@@ -202,6 +202,7 @@
 	#Projectile damage will be multiplied by maximum of this
 	"Max Projectile Damage" = 0.0
 ```
+
 - and then there are really complex files. Like this one
 
 
