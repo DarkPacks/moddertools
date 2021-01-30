@@ -1,10 +1,9 @@
-
-# Glossary:
+# Glossary
 
 - Chunks
 - Instance
 - Launcher
-- Regions 
+- Regions
 - Root Folder
 - Tick
 - Forge
