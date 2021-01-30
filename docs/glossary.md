@@ -1,11 +1,11 @@
 
 # Glossary:
 
-- Root Folder
+- Chunks
 - Instance
 - Launcher
 - Regions 
-- Chunks
+- Root Folder
 - Tick
 
 ## [**Main Page**](/modpack-dev)
