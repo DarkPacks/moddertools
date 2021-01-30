@@ -11,5 +11,6 @@
 - RAM Allocation
 - Java
 - Java Arguments
+- Config
 
 ## [**Main Page**](/modpack-dev)
