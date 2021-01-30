@@ -26,3 +26,5 @@
 - You should definitely have an issue template
     - Why? Because you will never know what version people are referring to
     - People will ignore the template. It happens. I try to give people the benefit of the doubt and assume they are unaware of how helpful the template information is
+
+## [**Main Page**](/modpack-dev)

@@ -21,7 +21,7 @@
 - **DO NOT** use sites like 9minecraft. These sites not only steal mods but they are not always safe to download from. Frequently they are advertised as mod files but are actually malware or viruses
 
 
-## [**Version Control and How to Setup a File Repository aka Repo**](/config-files)
+## [**Version Control and How to Setup a File Repository aka Repo**](/version-control)
 
 
 ## [**Config Files**](/config-files)
