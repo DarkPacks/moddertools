@@ -89,12 +89,17 @@
 	"Boat Whitelist" = false
 	#Treat TARGETVILLAGER flags as whitelist
 	"Villager Whitelist" = false
+```
 
+```toml
 #Debugging
 [debug]
 	#Enable showing of entity paths
 	"Path Debugging" = false
+```
+- Mods that have debug options are a great resource to help locate any issues or bugs you encounter. This one will visualize where mobs are walking (pathing) to
 
+```yaml
 #Settings for mod integration
 [integration]
 	#Should the scaling health mods difficulty system be used instead of this ones. (Requires scaling health mod)
@@ -105,11 +110,13 @@
 	"Use Reforged Mod" = false
 	#Should the coroutils repair block be used. (Requires coroutils mod)
 	"Use CoroUtils Mod" = false
+```
 
+```toml
 #Settings regarding custom ai for mobs
 [ai]
 	#Whitelist for blocks, which can be actively broken. Usage: <registry name;classname;tag> put "!" infront to exclude blocks
-	"Block Whitelist" = ["minecraft:grass_block", "minecraft:dirt", "minecraft:coarse_dirt", "minecraft:podzol", "minecraft:oak_planks", "minecraft:spruce_planks", "minecraft:birch_planks", "minecraft:jungle_planks", "minecraft:acacia_planks", "minecraft:dark_oak_planks", "minecraft:crimson_planks", "minecraft:warped_planks", "minecraft:sand", "minecraft:red_sand", "minecraft:gravel", "minecraft:oak_log"]
+	"Block Whitelist" = ["minecraft:grass_block", "minecraft:dirt", "minecraft:coarse_dirt", "minecraft:podzol"]
 	#Treat Block Whitelist as Blocklist
 	"Block as BlacklistBlock as Blacklist" = false
 	#Use the block breaking sound instead of a knocking sound
