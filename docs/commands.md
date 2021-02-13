@@ -22,6 +22,8 @@
   - Used to set the time in-game (TODO list out other options within command)
 - `/tp <> <> <>`
   - TODO give breakdown of command
+- `/kill @e[type=!player]` 
+  - Kills all entities besides the player
 - `/gamerule` [Minecraft Wiki Gamerule List](https://minecraft.gamepedia.com/Game_rule){:target="\_blank"}
   - doDaylightCycle (true/false) - leave out true or false to see the current setting
   - doWeatherCycle (true/false)
