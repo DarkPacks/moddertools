@@ -37,6 +37,8 @@
 
 ## [**Optimization**](/optimization)
 
+## [**Useful Mods for Development**](/development_mods)
+
 ## [**Useful Commands**](/commands)
 
 ## [**Glossary**](/glossary)
