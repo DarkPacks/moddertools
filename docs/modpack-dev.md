@@ -41,4 +41,6 @@
 
 ## [**Useful Commands**](/commands)
 
+## [**Java Arguments**](/java-args)
+
 ## [**Glossary**](/glossary)
