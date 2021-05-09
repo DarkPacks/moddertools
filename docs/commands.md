@@ -32,4 +32,38 @@
 - `F3+G` - View [chunk](/glossary 'A chunk is a 256-block tall 16×16 segment of a Minecraft world') borders
 - `F3+H` - Enable advanced tooltips. Will allow to see Item ID's and other useful information
 
+- `setblock ~2 ~ ~ minecraft:chest{LootTable:"minecraft:chests/nether_bridge"} replace` - Creates a chest from the loot table specified in quotes. The following is a list of existing Minecraft chest loot tables. This is not all of the available loot tables in the game. Consult the Minecraft wiki for the full list.
+  - minecraft:chests/village
+  - minecraft:chests/abandoned_mineshaft
+  - minecraft:chests/bastion_bridge
+  - minecraft:chests/bastion_hoglin_stable
+  - minecraft:chests/bastion_other
+  - minecraft:chests/bastion_treasure
+  - minecraft:chests/buried_treasure
+  - minecraft:chests/desert_pyramid
+  - minecraft:chests/end_city_treasure
+  - minecraft:chests/igloo_chest
+  - minecraft:chests/jungle_temple
+  - minecraft:chests/jungle_temple_dispenser
+  - minecraft:chests/nether_bridge
+  - minecraft:chests/pillager_outpost
+  - minecraft:chests/ruined_portal
+  - minecraft:chests/shipwreck_map
+  - minecraft:chests/shipwreck_supply
+  - minecraft:chests/shipwreck_treasure
+  - minecraft:chests/simple_dungeon
+  - minecraft:chests/spawn_bonus_chest
+  - minecraft:chests/stronghold_corridor
+  - minecraft:chests/stronghold_crossing
+  - minecraft:chests/stronghold_library
+  - minecraft:chests/underwater_ruin_big
+  - minecraft:chests/underwater_ruin_small
+  - minecraft:chests/woodland_mansion
+
+
+
+
+
+
+
 ## [**Main Page**](/modpack-dev)
