@@ -38,6 +38,7 @@
 ## Tools
 
 - [Recipe Maker](https://muddrdev.com/minecraft/recipemaker.html)
+- [MC UUID Converter](https://www.soltoder.com/mc-uuid-converter/)
 
 ## [**Optimization**](/optimization)
 
