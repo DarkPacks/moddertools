@@ -14,6 +14,8 @@
 - [Region Locator Coordinate Tool](https://dinnerbone.com/minecraft/tools/coordinates/){:target="\_blank"}
   - You will often need to locate a region file
 
+- [Link Shell Extension](https://schinagl.priv.at/nt/hardlinkshellext/linkshellextension.html) is a Symlink tool allowing you to use MultiMC as your modpack launcher but still use GDLauncher or Curseforge to easily update mods. [Click here for more information]
+
 ## Sites to use for mods
 
 - [Curseforge](https://www.curseforge.com/minecraft/mc-mods){:target="\_blank"}
