@@ -10,13 +10,6 @@
 
 - [GDLauncher](https://gdevs.io/){:target="\_blank"}
 - [Curseforge](https://curseforge.overwolf.com/){:target="\_blank"}
-- [NBT Explorer](https://github.com/jaquadro/NBTExplorer/releases){:target="\_blank"} (sometimes you’ll need to edit files like level.dat and NBT Explorer will open and allow editing)
-- [Region Locator Coordinate Tool](https://dinnerbone.com/minecraft/tools/coordinates/){:target="\_blank"}
-  - You will often need to locate a region file
-
-- [Link Shell Extension](https://schinagl.priv.at/nt/hardlinkshellext/linkshellextension.html) is a Symlink tool allowing you to use MultiMC as your modpack launcher but still use GDLauncher or Curseforge to easily update mods. [Click here for more information](/sym-link)
-
-- [Datapack Generator](https://misode.github.io/) this site will help create datapacks in the correct file structure and syntax. Datapack are extremely powerful and a great tool to learn when making maps and packs
 
 ## Sites to use for mods
 
@@ -43,6 +36,11 @@
 
 - [Recipe Maker](https://muddrdev.com/minecraft/recipemaker.html)
 - [MC UUID Converter](https://www.soltoder.com/mc-uuid-converter/)
+- [Datapack Generator](https://misode.github.io/) this site will help create datapacks in the correct file structure and syntax. Datapack are extremely powerful and a great tool to learn when making maps and packs
+- [Link Shell Extension](https://schinagl.priv.at/nt/hardlinkshellext/linkshellextension.html) is a Symlink tool allowing you to use MultiMC as your modpack launcher but still use GDLauncher or Curseforge to easily update mods. [Click here for more information](/sym-link)
+- [Region Locator Coordinate Tool](https://dinnerbone.com/minecraft/tools/coordinates/){:target="\_blank"}
+- You will often need to locate a region file
+- [NBT Explorer](https://github.com/jaquadro/NBTExplorer/releases){:target="\_blank"} (sometimes you’ll need to edit files like level.dat and NBT Explorer will open and allow editing)
 
 ## [**Optimization**](/optimization)
 
