@@ -16,6 +16,8 @@
 
 - [Link Shell Extension](https://schinagl.priv.at/nt/hardlinkshellext/linkshellextension.html) is a Symlink tool allowing you to use MultiMC as your modpack launcher but still use GDLauncher or Curseforge to easily update mods. [Click here for more information](/sym-link)
 
+- [Datapack Generator](https://misode.github.io/) this site will help create datapacks in the correct file structure and syntax. Datapack are extremely powerful and a great tool to learn when making maps and packs
+
 ## Sites to use for mods
 
 - [Curseforge](https://www.curseforge.com/minecraft/mc-mods){:target="\_blank"}
