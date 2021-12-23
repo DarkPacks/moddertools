@@ -10,9 +10,11 @@ Make sure to set `-Xms` and `Xmx` to your minimum and maximum RAM allocation. Wh
 <br/><br/>
 
 
-
-
-### **Java 14+:**
+### **Java 14 - 16:**
 `-XX:+UnlockExperimentalVMOptions -XX:+UseZGC --illegal-access=permit`
+
+
+### **Java 17+:**
+`-XX:+UnlockExperimentalVMOptions -XX:+UseZGC`
 
 ## [**Main Page**](/modpack-dev)
