@@ -2,8 +2,8 @@
 
 ## Useful commands
 
-- MCStacker is a great site to create Minecraft commands [MCStacker](https://mcstacker.net/versions.php)
-- Tool to generate a number of features [Minecraft.tools](https://minecraft.tools/en/)
+# MCStacker is a great site to create Minecraft commands [MCStacker](https://mcstacker.net/versions.php)
+# Tool to generate a number of features [Minecraft.tools](https://minecraft.tools/en/)
 
 ### Command breakdown
 
