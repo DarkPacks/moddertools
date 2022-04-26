@@ -34,7 +34,7 @@
 
 ## Tools
 
-- [Recipe Maker](https://muddrdev.com/minecraft/recipemaker.html)
+- [Recipe Maker](https://muddrdev.com/minecraft/recipemaker.html) A tool made by Muddr that allows quick and easy creation of multiple recipe files simultaneously
 - [MC UUID Converter](https://www.soltoder.com/mc-uuid-converter/)
 - [Datapack Generator](https://misode.github.io/) this site will help create datapacks in the correct file structure and syntax. Datapack are extremely powerful and a great tool to learn when making maps and packs
 - [Json Generator](https://json-generator.com/) json generator allows you to create json files with random text and other variables and also can output multiples json entries. This is very handy when having to generate configs for mods needing multiple entries and can save a lot of time. For example, the Delivery Quests mod has 1 json entry per quest. You would be able to output many quests at once instead of making them one at a time.
@@ -52,3 +52,5 @@
 ## [**Java Arguments**](/java-args)
 
 ## [**Glossary**](/glossary)
+
+## [**Special Thanks**](/thanks)
