@@ -40,8 +40,7 @@
 - [Json Generator](https://json-generator.com/) json generator allows you to create json files with random text and other variables and also can output multiples json entries. This is very handy when having to generate configs for mods needing multiple entries and can save a lot of time. For example, the Delivery Quests mod has 1 json entry per quest. You would be able to output many quests at once instead of making them one at a time.
 - [CraftTweaker to DataPack Converter](https://muddrdev.com/minecraft/convertcrafttweaker.html) This is a tool made by Muddr to convert Craftweaker recipes to datapack json recipes. This is very handy when updating from CrT to Datapacks without having to do all of the copy/pasting manually.
 - [Link Shell Extension](https://schinagl.priv.at/nt/hardlinkshellext/linkshellextension.html) is a Symlink tool allowing you to use MultiMC as your modpack launcher but still use GDLauncher or Curseforge to easily update mods. [Click here for more information](/sym-link)
-- [Region Locator Coordinate Tool](https://dinnerbone.com/minecraft/tools/coordinates/){:target="\_blank"}
-- You will often need to locate a region file
+- [Region Locator Coordinate Tool](https://dinnerbone.com/minecraft/tools/coordinates/){:target="\_blank"} You will often need to locate a region file. This will make that process much easier.
 - [NBT Explorer](https://github.com/jaquadro/NBTExplorer/releases){:target="\_blank"} (sometimes you’ll need to edit files like level.dat and NBT Explorer will open and allow editing)
 
 ## [**Optimization**](/optimization)
