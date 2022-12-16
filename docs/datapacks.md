@@ -33,15 +33,18 @@
   ```
 That's it, that's the entire `mcmeta` file!
 
-3. Inside the data folder is where you can now create or drag-and-drop a mod datapack to begin customizing
+3. Inside the data folder is where you can now create or drag-and-drop a mod datapack to begin customizing. Easiest way to do this and understand how to edit a mod is to locate the mod jar file you want to edit. In your `mods` folder, find a mod you'd like to edit and open it as if it was a zip file. Windows can do this with file explorer or you can use a tool like [7Zip](https://www.7-zip.org/). Since jar files can be treated like a Zip or Compressed Folder, you can access the files inside very easily. If you see a `data` folder inside the jar file then you have some access to editing the mod. Inside the `data` folder you will see a "namespace", which basically means the name of the mod or datapack you're working with. The easiest way to work with the mod's datapack is to copy the namespace folder into your own datapack `data` folder
 
 
+** Loading a Datapack
 - A datapack will need to be added to the world during world creation or you can use a mod to always load it. There are a handful of mods available, but one example is: [Global Packs](https://www.curseforge.com/minecraft/mc-mods/drp-global-datapack) With this mod, all you have to do is:
 1. Add it to your mods folder
 2. Generate the config file and folders by loading the game once
 3. Now you can use the generated folders to place your datapacks in. You can use any number of datapacks so don't feel like you have to put everything into a single pack
 
 - Something to note: Using a mod to load datapacks, it will load it last so it has the final say on any changes you make. Running the `/datapack list` command in-game will show you all of the datapacks being run currently. Minecraft should appear first, next will be all of the mods, and then finally your own datapack
+
+- Datapacks added in manually in the world creation screen are only used on that world only and need to be added to other worlds you are loading. This is why it's generally more convenient to use a loader like Global Packs to reduce the number of times you have to add it
 
 
 
