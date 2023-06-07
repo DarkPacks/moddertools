@@ -46,6 +46,8 @@
 
 ## [**Optimization**](/optimization)
 
+## [**Performance Mods**](/performance_mods)
+
 ## [**Useful Mods for Development**](/development_mods)
 
 ## [**Useful Commands**](/commands)
