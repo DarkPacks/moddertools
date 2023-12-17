@@ -4,13 +4,14 @@
 
 ## Launcher to play packs
 
-[MultiMC](https://multimc.org/){:target="\_blank"} - MultiMC is a launcher that will easily allow settings per instance
+- [Prism Launcher](https://prismlauncher.org/){:target="\_blank"} - Prism is a fantastic launcher and instance manager. It can also download mods from Modrinth and Curseforge without needing another application
+- [MultiMC](https://multimc.org/){:target="\_blank"} - MultiMC is a launcher that will easily allow settings per instance
 
 ## Launcher for downloading and updating mods (either of these launchers will work fine, it’s preference)
 
 - [GDLauncher](https://gdevs.io/){:target="\_blank"}
 - [Curseforge](https://curseforge.overwolf.com/){:target="\_blank"}
-
+- [Modrinth](https://modrinth.com/){:target="\_blank"}
 ## Sites to use for mods
 
 - [Curseforge](https://www.curseforge.com/minecraft/mc-mods){:target="\_blank"}

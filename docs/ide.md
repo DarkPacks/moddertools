@@ -7,4 +7,9 @@
   - [VSCode](https://code.visualstudio.com/){:target="\_blank"}
   - [Atom](https://atom.io/){:target="\_blank"}
 
+
+## VS Code Extensions
+-- [**VS Code Extensions**](/vs-code-extensions)
+
+
 ## [**Main Page**](/modpack-dev)
